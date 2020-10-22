@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://calm-meadow-01cf1cd0f.azurestaticapps.net/BurtonVueNative.appinstaller"
-	Version="1.0.6.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="1.0.7.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="5d52b39e-df9a-4a87-b203-2b61d358df13"
-		Version="1.0.6.0"
+		Version="1.0.7.0"
 		Publisher="CN=brodman"
-		Uri="https://calm-meadow-01cf1cd0f.azurestaticapps.net/BurtonVueNative_1.0.6.0_Test/BurtonVueNative_1.0.6.0_x64.msixbundle" />
+		Uri="https://calm-meadow-01cf1cd0f.azurestaticapps.net/BurtonVueNative_1.0.7.0_Test/BurtonVueNative_1.0.7.0_x64.msixbundle" />
 	<Dependencies>
 		<Package
 			Name="Microsoft.UI.Xaml.2.3"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			Version="2.31911.29002.0"
 			ProcessorArchitecture="x64"
-			Uri="https://calm-meadow-01cf1cd0f.azurestaticapps.net/BurtonVueNative_1.0.6.0_Test/Dependencies/x64/Microsoft.UI.Xaml.2.3.appx" />
+			Uri="https://calm-meadow-01cf1cd0f.azurestaticapps.net/BurtonVueNative_1.0.7.0_Test/Dependencies/x64/Microsoft.UI.Xaml.2.3.appx" />
 		<Package
 			Name="Microsoft.VCLibs.140.00"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			Version="14.0.27810.0"
 			ProcessorArchitecture="x64"
-			Uri="https://calm-meadow-01cf1cd0f.azurestaticapps.net/BurtonVueNative_1.0.6.0_Test/Dependencies/x64/Microsoft.VCLibs.x64.14.00.appx" />
+			Uri="https://calm-meadow-01cf1cd0f.azurestaticapps.net/BurtonVueNative_1.0.7.0_Test/Dependencies/x64/Microsoft.VCLibs.x64.14.00.appx" />
 	</Dependencies>
 	<UpdateSettings>
 		<OnLaunch
